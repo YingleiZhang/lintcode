@@ -1,4 +1,8 @@
 /*
+	Lintcode: reverse a linked list.
+	Author: Yinglei Zhang. 
+	Email:yinglei.zh@gmail.com
+	
 	Reverse a linked list.
 
 	Example

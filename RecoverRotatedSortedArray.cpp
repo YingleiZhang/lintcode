@@ -1,4 +1,8 @@
 /*
+	Lintcode: Recover rotated sorted array.
+	Author: Yinglei Zhang. 
+	Email:yinglei.zh@gmail.com
+	
 	Given a rotated sorted array, recover it to sorted array in-place.
 
 	Example

@@ -1,5 +1,5 @@
 /*
-	Lintcode: Merge two sorted list.
+	Lintcode: Search insert position.
 	Author: Yinglei Zhang.
 	Email:yinglei.zh@gmail.com
 	
