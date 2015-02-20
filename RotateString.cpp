@@ -1,5 +1,5 @@
 /*
-	Lintcode: Unique path.
+	Lintcode: rotate string.
 	Author: Yinglei Zhang. 
 	Email:yinglei.zh@gmail.com
 
